@@ -1,45 +1,28 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Haviva Siegel",
+    "occupation": "Full-Stack Software Engineer",
+    "description": "I recently graduated a Full Stack Developer Bootcamp",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Haviva! I am a Junior Full Stack Developer with an understanding of current and emerging technologies, I'm highly motivated and always aspire to learn new things and sharpen my existing skills I'm looking to take my first step as a professional FS developer, I bring with me an arsenal of skill sets from the course that I took. .",
+    "contactmessage": "To get in touch with me:",
+    "email": "haviva0siegel@gmail.com",
+    "phone": "+972 528448364",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "city": "Jaffa Tel-Aviv",
+      "state": "Israel"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://www.havivawebdevelopment.com",
+    "resumedownload": "https://1drv.ms/b/s!Ah_welxL0cK0mehCD5KgWhL6jQbFzQ",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/haviva-siegel-978645214",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/Haviva-Siegel",
         "className": "fa fa-github"
       }
     ]
@@ -48,74 +31,49 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
-      }
-    ],
-    "work": [
-      {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "school": "HackerU",
+        "degree": "Full Stack Developer Bootcamp - HackerU 2021",
+        "graduated": "August 2021",
+        "description": "Intensive 6-months, 720 hours training program that encourages self-led learning as well as group projects that simulate real-world development teams. Learning and applying front end skills such as HTML, CSS, JavaScript React, back-end skills as NodeJs and MySQL database"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "React"
       },
       {
-        "name": "Python",
-        "level": "85%"
+        "name": "Redux"
       },
       {
-        "name": "Git",
-        "level": "70%"
+        "name": "Node js"
       },
       {
-        "name": "JavaScript",
-        "level": "99%"
+        "name": "CSS"
       },
       {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "Sass"
+      },
+      {
+        "name": "mongoDB"
+      },
+      {
+        "name": "Angular"
+      },
+      {
+        "name": "PHP"
+      },
+      {
+        "name": "MySQL"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "E-Commerce marketplace (React JS)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
-      },
-      {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
-      },
-      {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "image": "myownmarket.png",
+        "url": "https://myownmarket.herokuapp.com/"
       }
     ]
   }
