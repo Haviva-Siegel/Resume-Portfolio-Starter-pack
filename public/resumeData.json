@@ -70,10 +70,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "E-Commerce marketplace (React JS)",
+        "title": "E-Commerce marketplace (React JS & nodeJS & mongoDB)",
         "category": "",
         "image": "myownmarket.png",
         "url": "https://myownmarket.herokuapp.com/"
+      },
+      {
+        "title": "CRM (angular & firebase)",
+        "category": "",
+        "image": "royalCRM.png",
+        "url": "https://my-royal-crm-1.web.app/login"
+      },
+      {
+        "title": "Netflix-Clone",
+        "category": "",
+        "image": "netflixClone.png",
+        "url": "https://netflix-clone-build-6cb31.web.app/"
       }
     ]
   }
